@@ -39,4 +39,7 @@ So, we can predict the salary of the newly hired employee based on experience.
 
 ![Screenshot (239)](https://github.com/hussain-2004/Salary-Prediction-using-simple-linear-regression-/assets/125747029/52b2903b-864b-4eac-bccd-babd287a1820)
 
+## Contributing
+
+If you would like to contribute to this project, feel free to submit a pull request with your proposed changes.
 
